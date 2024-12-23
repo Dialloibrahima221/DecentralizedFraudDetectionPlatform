@@ -4,7 +4,7 @@ The **Decentralized Fraud Detection Platform** combines **AI-powered fraud detec
 1. **`detection/`** - AI Component
    - Contains AI models and logic for detecting fraudulent transactions.
    - Includes scripts for data processing, fraud detection, and model evaluation.
-   - **Dataset**: The platform uses the Credit Card Fraud Detection dataset from Kaggle for training and evaluation.
+   - **Dataset**: The platform uses the Credit Card Fraud Detection dataset from Kaggle for training and evaluation: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 2. **`contracts/`** - Smart Contract Integration
    - Implements Ethereum smart contracts for:
