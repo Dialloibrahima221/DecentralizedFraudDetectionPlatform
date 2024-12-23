@@ -1,0 +1,86 @@
+TransactionID,Fraud_Score,Fraud_Type,Timestamp
+190264,0.59,Unknown,2023-05-13 03:03:00
+77349,0.9,Account Takeover,2023-02-23 17:08:00
+102443,0.99,Account Takeover,2023-03-13 03:22:00
+14921,0.84,Account Takeover,2023-01-11 08:40:00
+119782,0.78,Anomalous Location,2023-03-25 04:21:00
+48095,0.77,Anomalous Location,2023-02-03 09:34:00
+42959,0.91,Account Takeover,2023-01-30 19:58:00
+52585,0.8,Anomalous Location,2023-02-06 12:24:00
+204065,0.74,Anomalous Location,2023-05-22 17:04:00
+151520,0.99,Account Takeover,2023-04-16 05:19:00
+203325,0.65,Anomalous Location,2023-05-22 04:44:00
+141261,0.98,Account Takeover,2023-04-09 02:20:00
+70590,0.72,Unknown,2023-02-19 00:29:00
+222134,0.84,Account Takeover,2023-06-04 06:13:00
+153836,0.98,Account Takeover,2023-04-17 19:55:00
+14198,0.75,Anomalous Location,2023-01-10 20:37:00
+229713,0.95,Account Takeover,2023-06-09 12:32:00
+15811,1.0,Account Takeover,2023-01-11 23:30:00
+8973,0.73,Anomalous Location,2023-01-07 05:32:00
+152020,0.63,Anomalous Location,2023-04-16 13:39:00
+30101,0.92,Account Takeover,2023-01-21 21:40:00
+153399,0.51,Anomalous Location,2023-04-17 12:38:00
+214663,0.91,Account Takeover,2023-05-30 01:42:00
+6718,0.94,Account Takeover,2023-01-05 15:57:00
+18810,0.64,Unknown,2023-01-14 01:29:00
+42697,0.98,Account Takeover,2023-01-30 15:36:00
+151009,0.99,Account Takeover,2023-04-15 20:48:00
+30497,0.9,Account Takeover,2023-01-22 04:16:00
+150666,0.9,Account Takeover,2023-04-15 15:05:00
+6530,0.98,Account Takeover,2023-01-05 12:49:00
+57616,0.85,Account Takeover,2023-02-10 00:15:00
+6109,0.81,Account Takeover,2023-01-05 05:48:00
+44557,0.91,Account Takeover,2023-01-31 22:36:00
+142406,0.91,Account Takeover,2023-04-09 21:25:00
+280144,0.82,Account Takeover,2023-07-14 13:03:00
+238367,0.86,Account Takeover,2023-06-15 12:46:00
+252775,0.96,Account Takeover,2023-06-25 12:54:00
+64412,0.98,Account Takeover,2023-02-14 17:31:00
+99507,0.93,Account Takeover,2023-03-11 02:26:00
+41570,0.89,Account Takeover,2023-01-29 20:49:00
+243700,0.96,Account Takeover,2023-06-19 05:39:00
+102445,0.99,Account Takeover,2023-03-13 03:24:00
+42550,0.98,Account Takeover,2023-01-30 13:09:00
+81187,0.93,Account Takeover,2023-02-26 09:06:00
+141258,0.99,Account Takeover,2023-04-09 02:17:00
+150648,0.96,Account Takeover,2023-04-15 14:47:00
+42770,1.0,Account Takeover,2023-01-30 16:49:00
+251478,0.99,Account Takeover,2023-06-24 15:17:00
+249608,0.71,Unknown,2023-06-23 08:07:00
+149601,0.52,Unknown,2023-04-14 21:20:00
+243750,0.99,Account Takeover,2023-06-19 06:29:00
+88877,0.76,Anomalous Location,2023-03-03 17:16:00
+143729,0.91,Account Takeover,2023-04-10 19:28:00
+42529,0.89,Account Takeover,2023-01-30 12:48:00
+15477,1.0,Account Takeover,2023-01-11 17:56:00
+77683,0.98,Account Takeover,2023-02-23 22:42:00
+10205,0.51,Unknown,2023-01-08 02:04:00
+16416,0.9,Account Takeover,2023-01-12 09:35:00
+111691,0.9,Account Takeover,2023-03-19 13:30:00
+79537,0.51,Unknown,2023-02-25 05:36:00
+149870,0.55,Anomalous Location,2023-04-15 01:49:00
+170717,0.57,Unknown,2023-04-29 13:16:00
+15226,0.99,Account Takeover,2023-01-11 13:45:00
+6972,0.61,Unusual Transaction Volume,2023-01-05 20:11:00
+16111,0.98,Account Takeover,2023-01-12 04:30:00
+241446,0.94,Account Takeover,2023-06-17 16:05:00
+44002,0.67,Unknown,2023-01-31 13:21:00
+251905,0.91,Account Takeover,2023-06-24 22:24:00
+43429,0.95,Account Takeover,2023-01-31 03:48:00
+14212,0.78,Anomalous Location,2023-01-10 20:51:00
+42010,0.99,Account Takeover,2023-01-30 04:09:00
+42757,1.0,Account Takeover,2023-01-30 16:36:00
+218443,0.86,Account Takeover,2023-06-01 16:42:00
+150664,1.0,Account Takeover,2023-04-15 15:03:00
+11344,1.0,Account Takeover,2023-01-08 21:03:00
+106999,0.94,Account Takeover,2023-03-16 07:18:00
+143337,1.0,Account Takeover,2023-04-10 12:56:00
+8313,0.98,Account Takeover,2023-01-06 18:32:00
+238223,0.8,Anomalous Location,2023-06-15 10:22:00
+15540,1.0,Account Takeover,2023-01-11 18:59:00
+154720,1.0,Account Takeover,2023-04-18 10:39:00
+83418,0.81,Account Takeover,2023-02-27 22:17:00
+8616,0.9,Account Takeover,2023-01-06 23:35:00
+143334,1.0,Account Takeover,2023-04-10 12:53:00
+181967,0.77,Anomalous Location,2023-05-07 08:46:00

@@ -1,0 +1,3 @@
+module.exports = {
+    CONTRACT : "0x596834Fe0dD82fD8f9317B61E80CDf0961B969ec"
+}

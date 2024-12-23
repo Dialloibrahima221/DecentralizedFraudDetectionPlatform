@@ -1,0 +1,85 @@
+{"TransactionID":190264,"Fraud_Score":0.59,"Fraud_Type":"Unknown","Timestamp":1683946980000}
+{"TransactionID":77349,"Fraud_Score":0.9,"Fraud_Type":"Account Takeover","Timestamp":1677172080000}
+{"TransactionID":102443,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1678677720000}
+{"TransactionID":14921,"Fraud_Score":0.84,"Fraud_Type":"Account Takeover","Timestamp":1673426400000}
+{"TransactionID":119782,"Fraud_Score":0.78,"Fraud_Type":"Anomalous Location","Timestamp":1679718060000}
+{"TransactionID":48095,"Fraud_Score":0.77,"Fraud_Type":"Anomalous Location","Timestamp":1675416840000}
+{"TransactionID":42959,"Fraud_Score":0.91,"Fraud_Type":"Account Takeover","Timestamp":1675108680000}
+{"TransactionID":52585,"Fraud_Score":0.8,"Fraud_Type":"Anomalous Location","Timestamp":1675686240000}
+{"TransactionID":204065,"Fraud_Score":0.74,"Fraud_Type":"Anomalous Location","Timestamp":1684775040000}
+{"TransactionID":151520,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1681622340000}
+{"TransactionID":203325,"Fraud_Score":0.65,"Fraud_Type":"Anomalous Location","Timestamp":1684730640000}
+{"TransactionID":141261,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1681006800000}
+{"TransactionID":70590,"Fraud_Score":0.72,"Fraud_Type":"Unknown","Timestamp":1676766540000}
+{"TransactionID":222134,"Fraud_Score":0.84,"Fraud_Type":"Account Takeover","Timestamp":1685859180000}
+{"TransactionID":153836,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1681761300000}
+{"TransactionID":14198,"Fraud_Score":0.75,"Fraud_Type":"Anomalous Location","Timestamp":1673383020000}
+{"TransactionID":229713,"Fraud_Score":0.95,"Fraud_Type":"Account Takeover","Timestamp":1686313920000}
+{"TransactionID":15811,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1673479800000}
+{"TransactionID":8973,"Fraud_Score":0.73,"Fraud_Type":"Anomalous Location","Timestamp":1673069520000}
+{"TransactionID":152020,"Fraud_Score":0.63,"Fraud_Type":"Anomalous Location","Timestamp":1681652340000}
+{"TransactionID":30101,"Fraud_Score":0.92,"Fraud_Type":"Account Takeover","Timestamp":1674337200000}
+{"TransactionID":153399,"Fraud_Score":0.51,"Fraud_Type":"Anomalous Location","Timestamp":1681735080000}
+{"TransactionID":214663,"Fraud_Score":0.91,"Fraud_Type":"Account Takeover","Timestamp":1685410920000}
+{"TransactionID":6718,"Fraud_Score":0.94,"Fraud_Type":"Account Takeover","Timestamp":1672934220000}
+{"TransactionID":18810,"Fraud_Score":0.64,"Fraud_Type":"Unknown","Timestamp":1673659740000}
+{"TransactionID":42697,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1675092960000}
+{"TransactionID":151009,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1681591680000}
+{"TransactionID":30497,"Fraud_Score":0.9,"Fraud_Type":"Account Takeover","Timestamp":1674360960000}
+{"TransactionID":150666,"Fraud_Score":0.9,"Fraud_Type":"Account Takeover","Timestamp":1681571100000}
+{"TransactionID":6530,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1672922940000}
+{"TransactionID":57616,"Fraud_Score":0.85,"Fraud_Type":"Account Takeover","Timestamp":1675988100000}
+{"TransactionID":6109,"Fraud_Score":0.81,"Fraud_Type":"Account Takeover","Timestamp":1672897680000}
+{"TransactionID":44557,"Fraud_Score":0.91,"Fraud_Type":"Account Takeover","Timestamp":1675204560000}
+{"TransactionID":142406,"Fraud_Score":0.91,"Fraud_Type":"Account Takeover","Timestamp":1681075500000}
+{"TransactionID":280144,"Fraud_Score":0.82,"Fraud_Type":"Account Takeover","Timestamp":1689339780000}
+{"TransactionID":238367,"Fraud_Score":0.86,"Fraud_Type":"Account Takeover","Timestamp":1686833160000}
+{"TransactionID":252775,"Fraud_Score":0.96,"Fraud_Type":"Account Takeover","Timestamp":1687697640000}
+{"TransactionID":64412,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1676395860000}
+{"TransactionID":99507,"Fraud_Score":0.93,"Fraud_Type":"Account Takeover","Timestamp":1678501560000}
+{"TransactionID":41570,"Fraud_Score":0.89,"Fraud_Type":"Account Takeover","Timestamp":1675025340000}
+{"TransactionID":243700,"Fraud_Score":0.96,"Fraud_Type":"Account Takeover","Timestamp":1687153140000}
+{"TransactionID":102445,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1678677840000}
+{"TransactionID":42550,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1675084140000}
+{"TransactionID":81187,"Fraud_Score":0.93,"Fraud_Type":"Account Takeover","Timestamp":1677402360000}
+{"TransactionID":141258,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1681006620000}
+{"TransactionID":150648,"Fraud_Score":0.96,"Fraud_Type":"Account Takeover","Timestamp":1681570020000}
+{"TransactionID":42770,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1675097340000}
+{"TransactionID":251478,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1687619820000}
+{"TransactionID":249608,"Fraud_Score":0.71,"Fraud_Type":"Unknown","Timestamp":1687507620000}
+{"TransactionID":149601,"Fraud_Score":0.52,"Fraud_Type":"Unknown","Timestamp":1681507200000}
+{"TransactionID":243750,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1687156140000}
+{"TransactionID":88877,"Fraud_Score":0.76,"Fraud_Type":"Anomalous Location","Timestamp":1677863760000}
+{"TransactionID":143729,"Fraud_Score":0.91,"Fraud_Type":"Account Takeover","Timestamp":1681154880000}
+{"TransactionID":42529,"Fraud_Score":0.89,"Fraud_Type":"Account Takeover","Timestamp":1675082880000}
+{"TransactionID":15477,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1673459760000}
+{"TransactionID":77683,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1677192120000}
+{"TransactionID":10205,"Fraud_Score":0.51,"Fraud_Type":"Unknown","Timestamp":1673143440000}
+{"TransactionID":16416,"Fraud_Score":0.9,"Fraud_Type":"Account Takeover","Timestamp":1673516100000}
+{"TransactionID":111691,"Fraud_Score":0.9,"Fraud_Type":"Account Takeover","Timestamp":1679232600000}
+{"TransactionID":79537,"Fraud_Score":0.51,"Fraud_Type":"Unknown","Timestamp":1677303360000}
+{"TransactionID":149870,"Fraud_Score":0.55,"Fraud_Type":"Anomalous Location","Timestamp":1681523340000}
+{"TransactionID":170717,"Fraud_Score":0.57,"Fraud_Type":"Unknown","Timestamp":1682774160000}
+{"TransactionID":15226,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1673444700000}
+{"TransactionID":6972,"Fraud_Score":0.61,"Fraud_Type":"Unusual Transaction Volume","Timestamp":1672949460000}
+{"TransactionID":16111,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1673497800000}
+{"TransactionID":241446,"Fraud_Score":0.94,"Fraud_Type":"Account Takeover","Timestamp":1687017900000}
+{"TransactionID":44002,"Fraud_Score":0.67,"Fraud_Type":"Unknown","Timestamp":1675171260000}
+{"TransactionID":251905,"Fraud_Score":0.91,"Fraud_Type":"Account Takeover","Timestamp":1687645440000}
+{"TransactionID":43429,"Fraud_Score":0.95,"Fraud_Type":"Account Takeover","Timestamp":1675136880000}
+{"TransactionID":14212,"Fraud_Score":0.78,"Fraud_Type":"Anomalous Location","Timestamp":1673383860000}
+{"TransactionID":42010,"Fraud_Score":0.99,"Fraud_Type":"Account Takeover","Timestamp":1675051740000}
+{"TransactionID":42757,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1675096560000}
+{"TransactionID":218443,"Fraud_Score":0.86,"Fraud_Type":"Account Takeover","Timestamp":1685637720000}
+{"TransactionID":150664,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1681570980000}
+{"TransactionID":11344,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1673211780000}
+{"TransactionID":106999,"Fraud_Score":0.94,"Fraud_Type":"Account Takeover","Timestamp":1678951080000}
+{"TransactionID":143337,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1681131360000}
+{"TransactionID":8313,"Fraud_Score":0.98,"Fraud_Type":"Account Takeover","Timestamp":1673029920000}
+{"TransactionID":238223,"Fraud_Score":0.8,"Fraud_Type":"Anomalous Location","Timestamp":1686824520000}
+{"TransactionID":15540,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1673463540000}
+{"TransactionID":154720,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1681814340000}
+{"TransactionID":83418,"Fraud_Score":0.81,"Fraud_Type":"Account Takeover","Timestamp":1677536220000}
+{"TransactionID":8616,"Fraud_Score":0.9,"Fraud_Type":"Account Takeover","Timestamp":1673048100000}
+{"TransactionID":143334,"Fraud_Score":1.0,"Fraud_Type":"Account Takeover","Timestamp":1681131180000}
+{"TransactionID":181967,"Fraud_Score":0.77,"Fraud_Type":"Anomalous Location","Timestamp":1683449160000}
